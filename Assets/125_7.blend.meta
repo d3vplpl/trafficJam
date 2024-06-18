@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 359968e65f942994d962a4d5bba29ac0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Exhaust1
+    100004: Exhaust2
+    100006: FrontLights
+    100008: FrontWheels
+    100010: FrontWheels_001
+    100012: Interior
+    100014: RearBumper
+    100016: RearLightLeft
+    100018: RearLightRight
+    100020: RearWinDshield
+    100022: SideWindow
+    100024: Underchassis
+    100026: WindShield
+    400000: //RootNode
+    400002: Exhaust1
+    400004: Exhaust2
+    400006: FrontLights
+    400008: FrontWheels
+    400010: FrontWheels_001
+    400012: Interior
+    400014: RearBumper
+    400016: RearLightLeft
+    400018: RearLightRight
+    400020: RearWinDshield
+    400022: SideWindow
+    400024: Underchassis
+    400026: WindShield
+    2300000: //RootNode
+    2300002: Exhaust1
+    2300004: Exhaust2
+    2300006: FrontLights
+    2300008: FrontWheels
+    2300010: FrontWheels_001
+    2300012: Interior
+    2300014: RearBumper
+    2300016: RearLightLeft
+    2300018: RearLightRight
+    2300020: RearWinDshield
+    2300022: SideWindow
+    2300024: Underchassis
+    2300026: WindShield
+    3300000: //RootNode
+    3300002: Exhaust1
+    3300004: Exhaust2
+    3300006: FrontLights
+    3300008: FrontWheels
+    3300010: FrontWheels_001
+    3300012: Interior
+    3300014: RearBumper
+    3300016: RearLightLeft
+    3300018: RearLightRight
+    3300020: RearWinDshield
+    3300022: SideWindow
+    3300024: Underchassis
+    3300026: WindShield
+    4300000: Chasis
+    4300002: Underchassis
+    4300004: FrontWheels_001
+    4300006: Interior
+    4300008: RearLightLeft
+    4300010: WindShield
+    4300012: SideWindow
+    4300014: RearWinDshield
+    4300016: FrontLights
+    4300018: FrontWheels
+    4300020: Exhaust2
+    4300022: Exhaust1
+    4300024: RearBumper
+    4300026: RearLightRight
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
